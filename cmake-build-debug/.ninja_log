@@ -1,0 +1,22 @@
+# ninja log v5
+2	496	1668481833653144420	CMakeFiles/GooGleTests.dir/src/SmallPrimeSieve.cpp.o	cf716387e87e8bc8
+2	540	1668481833696884714	googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	983e928adc0e4e25
+0	618	1668481833774559390	CMakeFiles/GooGleTests.dir/src/BigInteger.cpp.o	6a3f9f19d5e5b821
+2	662	1668481833818890921	CMakeFiles/GooGleTests.dir/test/PerformanceTests.cpp.o	68550c0dd5c5cee2
+0	710	1668481833866520796	CMakeFiles/GooGleTests.dir/test/FunctionalTests.cpp.o	c346a9746f8f2121
+2	1646	1668481834800403708	googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	25245e589a482758
+1647	1674	1668481834834718000	lib/libgtest.a	25d68411548ffc1d
+1674	1689	1668481834849974000	lib/libgtest_main.a	6545eac5115bef63
+1689	1771	1668481834931523466	GooGleTests	8931c1d09a731c2a
+2	607	1668482035396712066	CMakeFiles/GooGleTests.dir/test/PerformanceTests.cpp.o	68550c0dd5c5cee2
+607	678	1668482035469535473	GooGleTests	8931c1d09a731c2a
+3	767	1668482209442961696	CMakeFiles/GooGleTests.dir/test/PerformanceTests.cpp.o	68550c0dd5c5cee2
+767	841	1668482209519417815	GooGleTests	8931c1d09a731c2a
+3	740	1668482705869727656	CMakeFiles/GooGleTests.dir/test/PerformanceTests.cpp.o	68550c0dd5c5cee2
+740	812	1668482705944033990	GooGleTests	8931c1d09a731c2a
+3	748	1668482910736489300	CMakeFiles/GooGleTests.dir/test/PerformanceTests.cpp.o	68550c0dd5c5cee2
+748	820	1668482910811738946	GooGleTests	8931c1d09a731c2a
+2	549	1668482929375053151	CMakeFiles/GooGleTests.dir/test/PerformanceTests.cpp.o	68550c0dd5c5cee2
+549	605	1668482929433184047	GooGleTests	8931c1d09a731c2a
+2	777	1668483057354745941	CMakeFiles/GooGleTests.dir/test/PerformanceTests.cpp.o	68550c0dd5c5cee2
+777	848	1668483057428598701	GooGleTests	8931c1d09a731c2a
